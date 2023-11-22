@@ -3,7 +3,7 @@
 ### 🛠️ What I'm Up To
 
 - **Job:** DevOps Engineer at [Swisscom](https://www.swisscom.ch/en/home.html) 🚀
-- **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/loris-senneca/) for more details about my professional journey.
+- **LinkedIn:** Connect with me on [Linkedin](https://www.linkedin.com/in/loris-senneca/) for more details about my professional journey.
 - **GitHub:** Check out my repositories to see some of the projects I've been working on, from automation scripts to infrastructure as code.
 
 - 
